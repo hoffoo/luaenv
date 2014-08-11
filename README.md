@@ -12,7 +12,7 @@ foo.lua  l.lua  p.lua
 ~/misc/lua/go $ luaenv 
 hi from lua
 there is no load order
-its best to just require other modules, instead of relying on it
+its best to just require other modules, instead of relying on order
 ```
 
 Now luaenv will loop waiting for file changes and eval updated files into the same environment.
