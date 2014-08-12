@@ -20,7 +20,7 @@ Now luaenv will loop waiting for file changes and eval updated files into the sa
 OTHER
 =====
 
-Files are not loaded recursively, this is a feature which lets you control how and when something will be updated. It makes more sense to load other files from subdirectories, rather than forcing everything to reload.
+Files are not loaded recursively, this is a feature which lets you control how and when something will be updated.
 
 LICENSE
 ======
